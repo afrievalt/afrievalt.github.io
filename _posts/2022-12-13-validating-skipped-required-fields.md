@@ -1,3 +1,5 @@
+# Validating Skipped required fields
+
 ### Objective: 
 Most forms show required error messages when the user moves out of a required field or submits the form.  The right time to show errors when a user **skips** a required field.  A field is **skipped** whenever any control below the required field is used.  
 
