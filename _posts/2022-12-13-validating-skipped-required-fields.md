@@ -7,4 +7,4 @@ Most forms show required error messages when the user moves out of a required fi
 ### Example:
 The user's only interaction is clicking the 3rd field, the first two fields should display the "<font color="red">Required</font>" error messages. 
 
-![Example](./past-validation.gif).
+![Example](./docs/assets/past-validation.gif).
