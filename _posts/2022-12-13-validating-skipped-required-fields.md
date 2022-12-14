@@ -11,6 +11,8 @@ The user's only interaction is clicking the 3rd field, the first two fields shou
 
 ![Example](https://raw.githubusercontent.com/afrievalt/afrievalt.github.io/main/docs/assets/past-validation.gif)
 
-<iframe src="https://1140sv.csb.app"></iframe>
+<iframe src="https://1140sv.csb.app" title="codesandbox"></iframe>
 
 [Try it Live in code sandbox](https://codesandbox.io/s/react-final-form-jit-validation-1140sv)
+
+v1
